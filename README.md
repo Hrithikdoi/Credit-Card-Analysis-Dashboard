@@ -58,7 +58,7 @@ The solution includes two interactive dashboards:
 ## Project Structure
 
 ```text
-Credit-Card-Financial-Dashboard
+Credit-Card-Analysis-Dashboard
 │
 ├── Dashboard
 │   └── Credit_Card_Report.pbix
