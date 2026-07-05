@@ -1,4 +1,4 @@
-# Credit Card Financial Dashboard
+# Credit Card Analysis Dashboard
 
 An interactive **Credit Card Financial Dashboard** built using **Power BI** and **PostgreSQL** to analyze customer behavior, transaction trends, revenue performance, and spending patterns. The project transforms raw credit card data into meaningful business insights through dynamic visualizations and interactive reports.
 
