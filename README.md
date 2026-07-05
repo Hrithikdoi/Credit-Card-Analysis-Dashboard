@@ -61,7 +61,9 @@ The solution includes two interactive dashboards:
 Credit-Card-Financial-Dashboard
 │
 ├── Dashboard
-│   ├── Credit_Card_Report.pbix
+│   └── Credit_Card_Report.pbix
+│
+├── Reports
 │   ├── Credit_Card_Financial_Dashboard_Transaction.pdf
 │   └── Credit_Card_Financial_Dashboard_Customer.pdf
 │
